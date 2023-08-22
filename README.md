@@ -11,9 +11,6 @@ It written in only HTML, CSS and JS.
 Because is only a static website, you have a lot of free forever option for hosting. Use github page or cloudflare.
 
 ---
-## Support
-It's not like i'm gonna use the money for the server or something.. only donate me if you appreciate this work
-
 
 ---
 That's all, Bye 👋👋👋
